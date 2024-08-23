@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdavid78
-- 👀 I’m interested in ...devloping my coding skills for front end webdesign.
-- 🌱 I’m currently learning ...html, css, and javascript through freecodecamp.  I also just started the meta classes.
+- 👀 I’m working on developing my coding skills for front end webdesign.
+- 🌱 I’m working through Meta's front-end developer certification.
 - 💞️ I’m looking to collaborate on ...small projects, even get ideas for projects that would help me learn.
 - 📫 How to reach me ...i'm assuming through github, my username?? not sure since I'm new here!!!
 
